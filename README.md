@@ -1,8 +1,8 @@
 # 💫About Me :
-Luís is more than just a Cloud Engineer.
-He is a "creative problem-solver" or a "detail-oriented strategist" who thrives on the unknown. 
-With a belief in trial and error, Luís is committed to make the world better, 1 code snippet at a time. 
-In his free time, Luís loves to learn more, play videogames and be with his family.
+- Luís is more than just a Cloud Engineer.
+- He is a "creative problem-solver" or a "detail-oriented strategist" who thrives on the unknown. 
+- With a belief in trial and error, Luís is committed to make the world better, 1 code snippet at a time. 
+- In his free time, Luís loves to learn more, play videogames and be with his family.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luisequeira94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lsequeira94) 
